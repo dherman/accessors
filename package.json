@@ -1,0 +1,25 @@
+{
+  "name": "accessors",
+  "description": "Backwards polyfill for obsolete Object getter/setter operations",
+  "main": "accessors.js",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.8.6"
+  },
+  "author": "Dave Herman",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodeunit": "0.7.4"
+  },
+  "directories": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dherman/accessors.js.git"
+  },
+  "keywords": [
+    "javascript"
+  ]
+}
