@@ -22,3 +22,7 @@ Run:
 ```
 $ nodeunit tests.js
 ```
+
+# License
+
+MIT
